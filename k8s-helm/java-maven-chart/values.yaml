@@ -4,4 +4,4 @@ image:
   repository: krishnasai949203/java-maven
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "20"
+  tag: "21"
